@@ -129,26 +129,21 @@ Passion:
 
 <p align="center">
 
-<p align="center">
-  <a href="https://github.com/Kishore2912Dev">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
+<a href="https://github.com/Kishore2912Dev">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
 
-  <a href="https://www.linkedin.com/in/surya-rama-kishore-vanapalli-5288b6291">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
+<a href="https://www.linkedin.com/in/surya-rama-kishore-vanapalli-5288b6291">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
 
-  <a href="mailto:vanapallisuryaramakishore@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
+<a href="https://leetcode.com/u/Kishore_Vanapalli/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
 
-  <a href="https://leetcode.com/u/Kishore_Vanapalli/">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg"
-         width="48"
-         height="48"
-         alt="LeetCode"/>
-  </a>
-</p>
+<a href="mailto:vanapallisuryaramakishore@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
 
 </p>
 
